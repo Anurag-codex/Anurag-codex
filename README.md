@@ -1,17 +1,42 @@
-👋 Hi, I’m @Anurag-codex
-👀 I’m interested in frontend web development, UI/UX design, and creating dynamic user experiences.
+Hi there! 👋 I'm {Anurag}
+✨ Passionate Front-End Developer transforming ideas into stunning, interactive websites! ✨
 
 
-🌱 I’m currently learning React.js and exploring the latest web technologies.
+---
 
-💞️ I’m looking to collaborate on exciting web projects and open-source contributions.
-📫 How to reach me: [mailtoanurag2024@gmail.com]
+🚀 Tech Stack:
+
+🌐 Languages & Frameworks: HTML5, CSS3, JavaScript
+
+⚛️ Libraries & Frameworks: React.js, Vue.js
+
+🎨 Styling Tools: TailwindCSS, Bootstrap
+
+🛠️ Version Control: Git & GitHub
+
+📱 Special Focus: Responsive Design & UI/UX Best Practices
 
 
-😄 Pronouns: he/him
-⚡ Fun fact: I love experimenting with animations and creating interactive web elements!
 
-<!---
-Anurag-codex/Anurag-codex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+💡 What I Do:
+
+✅ Craft clean, modern, and responsive user interfaces
+✅ Optimize performance and accessibility for all users
+✅ Collaborate on exciting open-source projects
+
+
+---
+
+📚 Currently Working On:
+
+🔹 Sharpening my React.js skills
+🔹 Exploring web performance optimization techniques
+
+
+---
+
+💼 Check Out My Work:
+🌐 My Portfolio/Website-->(https://anuragportfoliocv.netlify.app/)
+📂 GitHub Repositories|
