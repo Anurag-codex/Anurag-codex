@@ -38,5 +38,14 @@ Hi there! 👋 I'm {Anurag}
 ---
 
 💼 Check Out My Work:
-🌐 My Portfolio/Website-->(https://anuragportfoliocv.netlify.app/)
-📂 GitHub Repositories|
+
+
+🌐Portfolio/Website
+
+(https://anuragportfoliocv.netlify.app/)
+
+📂 GitHub Repositories
+
+(github.com/Anurag-codex)
+
+
