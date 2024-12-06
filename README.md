@@ -36,7 +36,16 @@
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/41752fdd-f8ad-4e92-b263-779fe928da92" alt="C" height="50" title="C">
 <img src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/086f2661-6998-4569-8c35-852c4254c53a" alt="CPP" height="50" title="C++">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-codex&theme=dark&show_icons=true&&hide=issues,contribs)
+<br><br>
+<img align="left" width="156" alt="Frame 23" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/398dfbb4-ca41-4b39-98ba-76f03ca76bbe">
+
+<br><br>
+  
+![](https://github-readme-stats.vercel.app/api?username=Anurag-codex&theme=dark&show_icons=true&&hide=issues,contribs)
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Anurag-codex&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-codex&layout=compact&theme=cobalt&hide_border=true" />
 
